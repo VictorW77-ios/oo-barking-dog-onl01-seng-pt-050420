@@ -12,7 +12,7 @@ class Dog
   end
   
   def bark
-    @this_dog_barks("woof!")
+    @this_dog_barks = "woof!"
   end
 end
 
