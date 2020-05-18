@@ -1,1 +1,2 @@
-# Your code goes here!
+class Dog 
+  def# Your code goes here!
