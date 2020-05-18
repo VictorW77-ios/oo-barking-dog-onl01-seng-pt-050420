@@ -12,11 +12,8 @@ class Dog
   end
   
   def bark
-    @this_dog_barks
+    @this_dog_barks("woof!")
   end
 end
-
-fido = Dog.new 
-fido.bark = "woof!"
 
 
