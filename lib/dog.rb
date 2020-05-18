@@ -11,7 +11,7 @@ class Dog
     @this_dog_barks = barking_dog
   end
   
-  def bark(sound)
+  def bark
     @this_dog_barks
   end
 end
