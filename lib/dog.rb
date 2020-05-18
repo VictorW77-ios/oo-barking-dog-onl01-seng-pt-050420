@@ -8,7 +8,7 @@ class Dog
   end
   
   def bark= (barking_dog)
-end
+  end
 end
 
 
