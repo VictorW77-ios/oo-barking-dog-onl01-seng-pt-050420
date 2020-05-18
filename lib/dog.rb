@@ -8,6 +8,7 @@ class Dog
   end
   
   def bark= (barking_dog)
+    @this_dog_barks = barking_dog
   end
 end
 
