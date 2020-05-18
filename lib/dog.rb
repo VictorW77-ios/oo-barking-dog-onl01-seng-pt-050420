@@ -13,6 +13,7 @@ class Dog
   
   def bark 
     @this_dog_barks
+  end
 end
 
 
